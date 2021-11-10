@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"Farmaciao","l":"Formulario"},{"p":"Farmaciao","l":"Mysql"},{"p":"Farmaciao","l":"Resumen"},{"p":"Farmaciao","l":"Tabla"}];updateSearchResults();
